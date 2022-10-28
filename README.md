@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namit343
 - 👀 I’m interested in Game Development and Web Development
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: Mail me at namitd@namit.dev or reach out to my Twitter Handle [@namit343](twitter.com/namit343)
+- 📫 How to reach me: Mail me at namitd@namit.dev or reach out to my Twitter Handle [@namit343](https://twitter.com/namit343)
 - 🏎️ Massive Formula 1 nerd
 
 <!---
